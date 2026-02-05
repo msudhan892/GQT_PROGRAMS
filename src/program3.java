@@ -13,7 +13,7 @@ public class program3 {
         } else {
             System.out.println("The string \"" + input + "\" is NOT a palindrome.");
         }
-
+        System.out.println("Operation completed");
         sc.close();
     }
 
@@ -32,4 +32,5 @@ public class program3 {
         }
         return true;
     }
+
 }
